@@ -10,4 +10,3 @@ spec:
      - containerPort: 80
   - name: alpine
     image: alpine
-    command: ['sh', '-c', 'sleep 60']
